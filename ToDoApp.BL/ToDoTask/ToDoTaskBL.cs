@@ -3,7 +3,7 @@ using Serilog;
 using ToDoApp.Common.Models;
 using ToDoApp.DB;
 
-namespace ToDoApp.API.BL;
+namespace ToDoApp.BL;
 
 public class ToDoTaskBL : IToDoTaskBL
 {

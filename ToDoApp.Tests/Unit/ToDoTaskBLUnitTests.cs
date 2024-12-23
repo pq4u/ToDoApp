@@ -1,11 +1,5 @@
 using Microsoft.EntityFrameworkCore;
-using Microsoft.EntityFrameworkCore.Metadata.Internal;
-using Moq;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-using ToDoApp.API.BL;
+using ToDoApp.BL;
 using ToDoApp.Common.Models;
 using ToDoApp.DB;
 

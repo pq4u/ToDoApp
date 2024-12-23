@@ -1,6 +1,6 @@
 ﻿using ToDoApp.Common.Models;
 
-namespace ToDoApp.API.BL
+namespace ToDoApp.BL
 {
     public interface IToDoTaskBL
     {

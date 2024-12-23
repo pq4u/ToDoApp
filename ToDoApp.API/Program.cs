@@ -2,7 +2,7 @@ using Serilog;
 using ToDoApp.Common;
 using ToDoApp.DB;
 using Microsoft.EntityFrameworkCore;
-using ToDoApp.API.BL;
+using ToDoApp.BL;
 
 Log.Logger = new LoggerConfiguration()
                 .WriteTo.Console()

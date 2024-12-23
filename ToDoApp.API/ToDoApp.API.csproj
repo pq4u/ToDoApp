@@ -29,6 +29,7 @@
 	</ItemGroup>
 
 	<ItemGroup>
+		<ProjectReference Include="..\ToDoApp.BL\ToDoApp.BL.csproj" />
 		<ProjectReference Include="..\ToDoApp.Common\ToDoApp.Common.csproj" />
 		<ProjectReference Include="..\ToDoApp.DB\ToDoApp.DB.csproj" />
 	</ItemGroup>
